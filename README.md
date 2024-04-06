@@ -1,4 +1,4 @@
-Hey, I am Paulo Camacho
+Hey, I am Paulo Camacho.
 ***
 
 Studying at Cuesta College.
