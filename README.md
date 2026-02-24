@@ -1,8 +1,9 @@
 # Hey, I’m Paulo Camacho
 
 Computer Science student at California State University Monterey Bay.
+ACM Treasurer and ICPC competitor.
 
-I enjoy building structured, practical software with sensible defaults.
+I enjoy building structured, practical software with sensible defaults. I focused on clarity, efficiency, and long-term maintainability.
 
 ## What I’m Focused On
 - Algorithms & competitive programming (ICPC-style training)
