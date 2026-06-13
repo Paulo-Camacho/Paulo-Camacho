@@ -1,18 +1,19 @@
-# Hey, I’m Paulo Camacho
+# Hello, I’m Paulo Camacho
 
-Computer Science student at California State University Monterey Bay.  
-ACM Treasurer and ICPC competitor (Division placement: 7th).
+A Computer Science student at California State University Monterey Bay.  
 
-I build structured, practical software with sensible defaults.
+ACM Vice President (Association for Computing Machinery) and ICPC competitor (International Collegiate Programming Contest).
+
+I love learning, math, and computers.
 
 ## What I’m Focused On
 - Algorithms & competitive programming
-- Full-stack development (Node, Express, SQL)
+- Full-stack development (Node, Express, React Native, SQL)
 
 ## Projects
-- **Gal_Tracker** – A minimal gym and calorie tracker with sensible defaults
+- __Easy-Tracker__ : A sensible gym and calorie tracker.
+- __Study Buddy__ : A $1000 Hackthon winning project 
 
 ## Tools & Stack
 C++, Java, Kotlin, Python  
-Node.js, Express, MySQL  
-Linux (Arch-based), i3, Neovim
+Node.js, Express, MySQL, React Native, Linux (Arch-based), i3, Neovim, Emacs
