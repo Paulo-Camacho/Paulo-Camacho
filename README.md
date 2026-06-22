@@ -4,8 +4,6 @@ A Computer Science student at California State University Monterey Bay.
 
 ACM Vice President (Association for Computing Machinery) and ICPC competitor (International Collegiate Programming Contest).
 
-I love learning, math, and computers.
-
 ## What I’m Focused On
 - Algorithms & competitive programming
 - Full-stack development (Node, Express, React Native, SQL)
