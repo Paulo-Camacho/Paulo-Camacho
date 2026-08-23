@@ -1,13 +1,17 @@
-# Hello, I’m Paulo Camacho
+## Hi, my name is Paulo
 
-A Computer Science student at California State University Monterey Bay.  
-ACM Vice President (Association for Computing Machinery) and ICPC competitor (International Collegiate Programming Contest).
+I am a CS student
 
-## Projects
-- __Easy-Tracker__ : A sensible gym and calorie tracker (IOS APP).
-- __Study Buddy__ : A $1000 Hackthon winning project 
+Things I spend my time doing and learning
 
-## What I’m Focused On && Tools I am interested in
-- Algorithms & competitive programming
-- Full-stack development (Node, Express, React Native, SQL)
-- React Native, Python, Typescript, MySQL, Linux (Arch-based / Red Hat), Neovim, Emacs
+### Projects
+
+- **[Study Buddy](https://www.linkedin.com/feed/update/urn:li:activity:7452794398897254400/)** : A $1000 Hackthon winning project
+
+- **[Maxun](https://www.maxun.dev/)** : An open-source no-code web data extraction platform
+
+- **[Easy Tracker](https://apps.apple.com/us/app/easy-tracker/id6779841773)** : A macro and workout tracking app I released during summer 2026
+
+### Technologies & platforms
+
+- ICPC, NeetCode 150, Lisp, TypeScript (HTML, CSS,Javascript), React Native
